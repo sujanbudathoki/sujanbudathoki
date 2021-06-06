@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi ! from  Sujan Budathoki. 👋
 
-<!--
-**sujanbudathoki/sujanbudathoki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Mediflow Pvt ltd .
+                                                              - 🌱 I’m currently learning .net core and angular
+- 👯 I’m looking to collaborate on Programming
+                                                              - 🤔 I’m looking for help with complex algorithms and dynamic programming.
+
+                                                               - 📫 How to reach me: <h6>twitter</h6> (@sujanbudathoki1)
+                                                                                                                                             
+                                                                                                                                             
+                                                                                                                                          - 😄 Pronouns: You
+                                                                                                                                          
+                                                                                                                                           -⚡ Fun fact: Prankster 
