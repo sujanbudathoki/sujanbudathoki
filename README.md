@@ -24,8 +24,8 @@
 
 </details>
 
-[twitter]: https://twitter.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[twitter]: https://twitter.com/sujanbudathoki
+[linkedin]: https://linkedin.com/in/sujanbudathoki
 
 
 
