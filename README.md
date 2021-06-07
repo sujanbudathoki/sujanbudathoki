@@ -20,11 +20,13 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.sujanbudathoki.vercel.app/api?username=sujanbudathoki&show_icons=true&hide_border=true" />
+  <img align="left" alt="sujan" src="https://github-readme-stats.sujanbudathoki.vercel.app/api?username=sujanbudathoki&show_icons=true&hide_border=true" />
 
 </details>
-[twitter]:https://twitter.com/SujanBudathoki1
-[linkedin]:https://www.linkedin.com/in/sujan-budathoki-a71aa4201/
+
+[twitter]: https://twitter.com/codeSTACKr
+[linkedin]: https://linkedin.com/in/codeSTACKr
+
 
 
 
