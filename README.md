@@ -17,15 +17,10 @@
 
 <br />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="sujan" src="https://github-readme-stats.sujanbudathoki.vercel.app/api?username=sujanbudathoki&show_icons=true&hide_border=true" />
-
-</details>
 
 [twitter]: https://twitter.com/sujanbudathoki
-[linkedin]: https://linkedin.com/in/sujanbudathoki
+[linkedin]:https://www.linkedin.com/in/sujan-budathoki-a71aa4201/
 
 
 
