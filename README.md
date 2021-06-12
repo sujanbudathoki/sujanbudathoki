@@ -22,7 +22,7 @@
 [twitter]: https://twitter.com/sujanbudathoki
 [linkedin]:https://www.linkedin.com/in/sujan-budathoki-a71aa4201/
 
-Email - suzanbudathokie@gmail.com
+<label>Email - suzanbudathokie@gmail.com</label>
 
 
 
