@@ -38,7 +38,7 @@
   <br/>
   <h1 align="center">Coding Platforms Profiles:</h1>
   <br/>
-  Hacker Rank:
+  
   <p align="center"><a href="https://www.hackerrank.com/suzanbudathokie" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
     </p>
   <h1 align="center"> Connect with me: </h1>
