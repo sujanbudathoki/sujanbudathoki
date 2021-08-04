@@ -13,13 +13,20 @@
 <br/>
 
   <h1 align="center">About Me</h1>
-- 🔭 I’m currently working on Mediflow Solutions Pvt ltd .
-- 🌱 I’m currently learning .net core and angular.
-- 📫 How to reach me: twitter (<a href="https://twitter.com/sujanbudathoki1">@sujanbudathoki1</a>)
-- 😄 Pronouns: You
+<li>
+<b>Name:</b>Sujan Budathoki</li>
+<li>
+<b>Gender:</b>Male
+</li>
+ <li>
+   <b>Currently Working On:</b>Mediflow Solution Services Ltd
+   </li>
+  <li>
+    <b>Hobbies:</b>Programming,Tech-Stuff,Music,Painting,Reading Books
+  </li>
 
 
-### Connect with me:
+  <h1 align="center"> Connect with me: </h1>
 
 
 [<img align="left"  alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
