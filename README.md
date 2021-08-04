@@ -3,7 +3,7 @@
   <h1 align="center"> Hi ! from  Sujan Budathoki. 👋 </h4>
   <br/>
   <div align="center">
-    <img src="https://dribbble.com/shots/4171367-Coding-Freak/attachments/4171367-Coding-Freak?mode=media"/>
+  <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"/>
   </div>
 
 
