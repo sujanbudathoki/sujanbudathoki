@@ -22,7 +22,7 @@
    <b>Currently Working On:-</b>  Mediflow Solution Services Ltd
    </li>
   <li>
-    <b>Hobbies-</b>Programming,Tech-Stuff,Music,Painting,Reading Books
+    <b>Hobbies:-</b>     Programming,Tech-Stuff,Music,Painting,Reading Books
   </li>
 
 
