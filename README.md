@@ -4,15 +4,16 @@
   <br/>
   <div align="center">
   <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="500" height="300" />
+    <code>Programmer</code>
   </div>
 <br/>
-<div style="margin-left:200px;">
 
+  <h1 align="center">About Me</h1>
 - 🔭 I’m currently working on Mediflow Solutions Pvt ltd .
 - 🌱 I’m currently learning .net core and angular.
 - 📫 How to reach me: twitter (<a href="https://twitter.com/sujanbudathoki1">@sujanbudathoki1</a>)
 - 😄 Pronouns: You
-  </div>
+
 
 ### Connect with me:
 
