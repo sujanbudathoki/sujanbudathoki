@@ -1,4 +1,10 @@
-### Hi ! from  Sujan Budathoki. 👋 
+<body>
+  
+  <h1 align="center"> Hi ! from  Sujan Budathoki. 👋 </h4>
+  <br/>
+  <div align="center">
+    <img src="https://dribbble.com/shots/4171367-Coding-Freak/attachments/4171367-Coding-Freak?mode=media"/>
+  </div>
 
 
 
@@ -24,7 +30,7 @@
 [twitter]: https://twitter.com/sujanbudathoki
 [linkedin]:https://www.linkedin.com/in/sujan-budathoki-a71aa4201/
 [Email]:mailto:suzanbudathokie@gmail.com
-
+</body>
 
 
 
