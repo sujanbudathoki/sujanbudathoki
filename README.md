@@ -4,7 +4,11 @@
   <br/>
   <div align="center">
   <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="500" height="300" />
-    <code>Programmer</code>
+    <br/>
+    <code>
+      .Net Developer
+    </code>
+    
   </div>
 <br/>
 
