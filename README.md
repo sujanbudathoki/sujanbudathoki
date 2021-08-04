@@ -14,15 +14,15 @@
 
   <h1 align="center">About Me</h1>
 <li>
-<b>Name:</b>Sujan Budathoki</li>
+<b>Name:-</b>   Sujan Budathoki</li>
 <li>
-<b>Gender:</b>Male
+<b>Gender:-</b>   Male
 </li>
  <li>
-   <b>Currently Working On:</b>Mediflow Solution Services Ltd
+   <b>Currently Working On:-</b>  Mediflow Solution Services Ltd
    </li>
   <li>
-    <b>Hobbies:</b>Programming,Tech-Stuff,Music,Painting,Reading Books
+    <b>Hobbies-</b>Programming,Tech-Stuff,Music,Painting,Reading Books
   </li>
 
 
