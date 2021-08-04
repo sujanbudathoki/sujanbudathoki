@@ -29,7 +29,7 @@
   <h1 align="center"> Connect with me: </h1>
 
 
-  <p align="center"><a href="twitter.com/SujanBudathoki1" target="_blank"><img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FSujanBudathoki1" /></a></p>
+  <p align="center"><a href="https://twitter.com/SujanBudathoki1" target="_blank"><img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FSujanBudathoki1" /></a></p>
 <p align="center">
 <a href="https://www.linkedin.com/in/sujan-budathoki-a71aa4201/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
