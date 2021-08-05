@@ -19,7 +19,7 @@
 <b>Gender:-</b>   Male
 </li>
   <li>
-    <b>Country:-</b>   Nepal <img src ="![image](https://user-images.githubusercontent.com/77040001/128279766-4909a54e-5502-415f-abf8-20f333817181.png)" width="20" height="20"/>
+    <b>Country:-</b>   Nepal <img src ="https://user-images.githubusercontent.com/77040001/128279766-4909a54e-5502-415f-abf8-20f333817181.png" width="20" height="20"/>
   </li>
  <li>
    <b>Currently Working On:-</b>  Mediflow Solution Services Ltd
