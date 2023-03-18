@@ -1,14 +1,13 @@
 <body>
   
-  <h1 align="center"> Hi , नमस्ते ! from  Sujan Budathoki. 👋 </h4>
+  <h1 align="center"> Hi , नमस्ते ! 👋 </h4>
   <br/>
   <div align="center">
   <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="750" height="420" />
     <br/>
     <code>
-      Junior Dev.
+     Pragmatic Programmer.
     </code>
-    
   </div>
 <br/>
 
@@ -26,10 +25,10 @@
    
    </li>
   <li>
-    <b>Hobbies:-</b>     Programming , Tech-Stuff , Music , Painting , Reading Books
+    <b>Hobbies:-</b>     Programming , Tech-exploration , Music , Pencil Sketching , Reading Books
   </li>
 <br/>
-  <h1 align="center"> ~Knowledge~ </h1>
+  <h1 align="center"> ~Skills~ </h1>
   <p><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
